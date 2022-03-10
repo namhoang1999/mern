@@ -5,15 +5,16 @@ Here's a list of dependencies you need to install
 - cors
 - dotenv
 - react-bootstrap
+- axios
 
 # Start the app
 in ```mern/backend``` folder:
 ```
-    nodemon server
+nodemon server
 ```
 
 to start the backend. And in ```mern/src``` folder, use:
 ```
-    npm start
+npm start
 ```
 to start the React frontend
